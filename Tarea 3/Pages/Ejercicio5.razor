@@ -1,0 +1,44 @@
+﻿@page "/Ejercicio5"
+@inject HttpClient http
+@using Telegram.Bot;
+
+<div class="card">
+    <div class="card-header">
+        En este apartado, tendrás un canal de telegram para enviar mensajes
+    </div>
+    <div class="card-body">
+        <div class="mb-3">
+            <label for="exampleFormControlTextarea1" class="form-label">¿Qué quieres enviar? Cuentanos!</label>
+            <textarea @bind="texto" class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+            <br />
+            <button @onclick="send" type="button" class="btn btn-success">Enviar mensaje</button>
+        </div>
+        <div style="visibility: @visible">
+            <br />
+            <h3>Enviaste este mensaje a: @grupo</h3>
+            <h4>Mensaje: @mensaje</h4>
+            <a href="https://t.me/joinchat/HYvN-N3vy_2sc9AG" target="_blank" class="link-success">Group chat</a>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+    @code{ string visible = "hidden";
+                string texto = "";
+                string grupo = "";
+                string mensaje = "";
+
+                private async Task send()
+                {
+                    var url = $"https://api.telegram.org/bot1648620064:AAFRDI5lsL_-UXvyRLBnyW-ZXrexIoo2pEk/sendMessage?chat_id=-495701496&text={texto}";
+                    var locaax = await http.GetJsonAsync<DatosT>(url);
+                    grupo = locaax.result.chat.title;
+                    mensaje = locaax.result.text;
+                    visible = "visible";
+
+
+                } }

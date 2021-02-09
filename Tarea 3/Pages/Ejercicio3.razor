@@ -1,0 +1,55 @@
+﻿@page "/Ejercicio3"
+@using Newtonsoft.Json;
+@using System.Collections;
+@inject HttpClient Http
+
+
+<div class="mb-3">
+    <label for="exampleFormControlTextarea1" class="form-label">Introduzca su texto en el idioma ESPAÑOL</label>
+    <textarea @bind="@word" class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+    <br />
+    <button disabled="@d" type="button" class="btn btn-success" @onclick="GetTraduccion">Traducir a Ingles</button>
+    <button type="button" class="btn btn-danger" @onclick="limpiar">Borrar contenido</button>
+</div>
+
+
+
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">Traduccion a Ingles</h5>
+        <p class="card-text">@translation</p>
+    </div>
+</div>
+
+@code{ string translation = "";
+    string word = "";
+    bool d = false;
+    public async Task GetTraduccion()
+    {
+        if (!String.IsNullOrEmpty(word))
+        {
+            var url = String.Format("https://translate.googleapis.com/translate_a/single?client=gtx&sl={0}&tl={1}&dt=t&q={2}", "es", "en", Uri.EscapeUriString(word));
+            var result = await Http.GetStringAsync(url);
+            if (!String.IsNullOrEmpty(result))
+            {
+                var jsonData = JsonConvert.DeserializeObject<dynamic>(result);
+                var translationItems = jsonData[0];
+                foreach (object item in translationItems)
+                {
+                    IEnumerable translationLineObject = item as IEnumerable;
+                    IEnumerator translationLineString = translationLineObject.GetEnumerator();
+                    translationLineString.MoveNext();
+                    translation += string.Format(" {0}", Convert.ToString(translationLineString.Current));
+                }
+                if (translation.Length > 1) { translation = translation.Substring(1); };
+            }
+        }
+        d = true;
+    }
+    public void limpiar()
+    {
+        d = false;
+        word = "";
+        translation = "";
+    } }

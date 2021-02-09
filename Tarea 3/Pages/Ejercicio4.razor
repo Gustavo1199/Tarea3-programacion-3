@@ -1,0 +1,31 @@
+﻿@page "/Ejercicio4"
+
+<div class="card">
+    <div class="card-header">
+        En este apartado, podrás tener un reproductor de videos local
+    </div>
+    <div class="card-body">
+        <div class="mb-3">
+            <label for="exampleFormControlInput1" class="form-label">Introduzca el codigo del video</label>
+            <input @bind-value="@cedula" type="email" class="form-control" id="exampleFormControlInput1">
+        </div>
+        <button @onclick="obtenerDatos" type="button" class="btn btn-success">Ejecutar consulta</button>
+        <button @onclick="limpiar" type="button" class="btn btn-danger">Borrar</button>
+    </div>
+</div>
+<br />
+<iframe style="margin-left: 25%" width="560" height="315" src="@url" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+@code {
+    string cedula;
+    string url;
+    public void obtenerDatos()
+    {
+        url = $"https://www.youtube.com/embed/"+cedula;
+    }
+    public void limpiar()
+    {
+        cedula = "";
+    }
+
+}

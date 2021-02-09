@@ -1,0 +1,75 @@
+﻿@page "/Ejercicio2"
+@inject HttpClient http
+@using System.Globalization;
+
+<style>
+    .card {
+        background-image: url(http://2.bp.blogspot.com/_7zVmU7DEHNg/Ri4EjsE3KaI/AAAAAAAACSg/RRu-Ty2zsP4/s400/fondo-estrellas.gif);
+        color: white;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+</style>
+<div>
+    En esta parte mostraremos el clima actual en el pais, para ejecutar, presione el boton inferior
+</div>
+<div class="d-grid gap-4">
+    <button @onclick="getloca" class="btn btn-success" type="button">Mostrar pronostico</button>
+    
+</div>
+
+<div style="visibility: @visible; font-size:15px;" class="row justify-content-center">
+    <div class="card">
+        <div class="card-body">
+            <div class="row text-center">
+                <div class="col-lg-4 col-12">
+                    <h1 class="display-4">@tem_u°</h1>
+                    <p>Fahrenheit: @tem_d°</p>
+                </div>
+                <div class="col-lg-4 col-12">
+                    <img style="width: 200px;" class="img-fluid mb-2" src="@con" alt="Imagen del clima">
+                </div>
+                <div class="col-lg-4 col-12">
+                    <p class="h1">
+                        @dia
+                    </p>
+                    <p class="h6">
+                        @fecha
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@code {
+    string visible = "hidden";
+    string pais = "";
+    string fecha = "";
+    Location locaa;
+    string con;
+    string estado = "";
+    double tem_u = 0;
+    double tem_d = 0;
+    string dia = "";
+
+
+    private async Task getloca()
+    {
+        var url = "http://api.weatherapi.com/v1/current.json?key=cf0558dc8eca488a8a0234546210202&q=country_name=republica%20dominicanaregion=distrito%20nacional&lang=es";
+        var locaax = await http.GetJsonAsync<dato>(url);
+        locaa = locaax.location;
+        con = locaax.current.condition.icon;
+        pais = locaa.country;
+        estado = locaax.current.condition.text;
+        tem_u = locaax.current.temp_c;
+        tem_d = locaax.current.temp_f;
+        var d = Convert.ToDateTime(locaax.current.last_updated);
+        byte dx = (byte)d.DayOfWeek;
+        dia = CultureInfo.InvariantCulture.TextInfo.ToTitleCase(d.ToString("dddd", new CultureInfo("es-ES")));
+        fecha = Convert.ToDateTime(locaax.current.last_updated).ToString("dd/MM/yyyy");
+        visible = "visible";
+    }
+
+}

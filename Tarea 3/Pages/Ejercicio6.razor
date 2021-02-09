@@ -1,0 +1,52 @@
+﻿@page "/Ejercicio6"
+@inject HttpClient Http
+@using System.Net.Http;
+@using System.Net.Http.Json;
+
+
+
+<button class="btn btn-outline-primary btn-lg mb-3" @onclick="obtener">Generar Lista de videos</button>
+
+
+@if (rs != null && rs.pageInfo.totalResults > 0)
+{
+<div class="row d-flex justify-content-between">
+    @foreach (var videos in rs.items)
+    {
+<div class="card col-2 shadow p-3 mb-3 bg-white rounded">
+    <iframe src="https://www.youtube.com/embed/@videos.id.videoId" class="card-img-top" alt="Video @videos.snippet.title"></iframe>
+    <div class="card-body">
+        <h5 class="card-title">@videos.snippet.title</h5>
+    </div>
+    <div class="card-footer">
+        <small class="text-muted"> @(videos.snippet.publishTime.ToString("dddd, dd MMMM yyyy"))</small>
+    </div>
+</div>}
+</div>}
+
+@if (rs == null && validar == true)
+{
+<div class="text-center mt-3">
+    <div class="spinner-border text-info" style='width: 4rem; height: 4rem;' role="status">
+    </div>
+</div>}
+
+@code{ string errores = "";
+        DatosYoutube rs = null;
+    bool validar = false;
+    private async Task obtener()
+    {
+        validar = true;
+        rs = await Http.GetFromJsonAsync<DatosYoutube>(("https://www.googleapis.com/youtube/v3/search?key=AIzaSyBC5HGkA8Umtiz0ij2XqIFLnswzHHgFN-Q&channelId=UC6d1s55a8NHyv1lpx-gou6A&part=snippet,id&order=date&maxResults=5"));
+
+        if (rs.pageInfo.totalResults > 0)
+        {
+            validar = false;
+
+        }
+        else
+        {
+            validar = false;
+            errores = "No se encontro resultados";
+        }
+    } }

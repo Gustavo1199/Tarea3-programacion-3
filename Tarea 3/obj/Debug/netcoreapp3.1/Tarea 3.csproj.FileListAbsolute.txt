@@ -1,0 +1,208 @@
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Tarea 3.exe
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Tarea 3.deps.json
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Tarea 3.runtimeconfig.json
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Tarea 3.runtimeconfig.dev.json
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Tarea 3.dll
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Tarea 3.pdb
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Tarea 3.Views.dll
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Tarea 3.Views.pdb
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.csprojAssemblyReference.cache
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.AssemblyInfoInputs.cache
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.AssemblyInfo.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.csproj.CoreCompileInputs.cache
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.MvcApplicationPartsAssemblyInfo.cache
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.RazorComponent.input.cache
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Ejercicio1.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.RazorComponent.output.cache
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Tarea 3.dll
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.TagHelpers.input.cache
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.TagHelpers.output.cache
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.RazorCoreGenerate.cache
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Ejercicio1.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.RazorAssemblyInfo.cache
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.RazorAssemblyInfo.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\staticwebassets\Tarea 3.StaticWebAssets.Manifest.cache
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\staticwebassets\Tarea 3.StaticWebAssets.xml
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\scopedcss\bundle\Tarea 3.styles.css
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.RazorTargetAssemblyInfo.cache
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.RazorTargetAssemblyInfo.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.Views.pdb
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.dll
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.pdb
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.genruntimeconfig.cache
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.csproj.CopyComplete
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Ejercicio2.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Ejercicio2.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Ejercicio5.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Ejercicio5.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Ejercicio3.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Ejercicio3.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Ejercicio4.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Ejercicio4.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Ejercicio6.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Ejercicio6.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Ejercicio7.razor.g.cs
+D:\Quinto Cuatrimestre\PROG III\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Ejercicio7.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Tarea 3.exe
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Tarea 3.deps.json
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Tarea 3.runtimeconfig.json
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Tarea 3.runtimeconfig.dev.json
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Tarea 3.dll
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Tarea 3.pdb
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Tarea 3.Views.dll
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Tarea 3.Views.pdb
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.csprojAssemblyReference.cache
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.AssemblyInfoInputs.cache
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.AssemblyInfo.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.csproj.CoreCompileInputs.cache
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.RazorComponent.input.cache
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Ejercicio1.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Ejercicio2.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Ejercicio3.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Ejercicio4.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Ejercicio5.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Ejercicio6.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Ejercicio7.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.RazorComponent.output.cache
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Tarea 3.dll
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.TagHelpers.input.cache
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.TagHelpers.output.cache
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.RazorCoreGenerate.cache
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Ejercicio1.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Ejercicio2.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Ejercicio3.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Ejercicio4.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Ejercicio5.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Ejercicio6.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Ejercicio7.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.RazorAssemblyInfo.cache
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.RazorAssemblyInfo.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\staticwebassets\Tarea 3.StaticWebAssets.Manifest.cache
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\staticwebassets\Tarea 3.StaticWebAssets.xml
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\scopedcss\bundle\Tarea 3.styles.css
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.RazorTargetAssemblyInfo.cache
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.RazorTargetAssemblyInfo.cs
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.Views.pdb
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.csproj.CopyComplete
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.dll
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.pdb
+C:\Users\Pamela Hernandez\Desktop\ITLA\5- Quinto Cuatrimestre\Programacion III\Tarea 3\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.genruntimeconfig.cache
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Tarea 3.exe
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Tarea 3.deps.json
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Tarea 3.runtimeconfig.json
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Tarea 3.runtimeconfig.dev.json
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Tarea 3.dll
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Tarea 3.pdb
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Tarea 3.Views.dll
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Tarea 3.Views.pdb
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.csprojAssemblyReference.cache
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.AssemblyInfoInputs.cache
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.AssemblyInfo.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.csproj.CoreCompileInputs.cache
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.RazorComponent.input.cache
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Ejercicio1.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Ejercicio2.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Ejercicio3.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Ejercicio4.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Ejercicio5.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Ejercicio6.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Ejercicio7.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.RazorComponent.output.cache
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Tarea 3.dll
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.TagHelpers.input.cache
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.TagHelpers.output.cache
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.RazorCoreGenerate.cache
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Ejercicio1.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Ejercicio2.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Ejercicio3.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Ejercicio4.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Ejercicio5.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Ejercicio6.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Ejercicio7.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.RazorAssemblyInfo.cache
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.RazorAssemblyInfo.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\staticwebassets\Tarea 3.StaticWebAssets.Manifest.cache
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\staticwebassets\Tarea 3.StaticWebAssets.xml
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\scopedcss\bundle\Tarea 3.styles.css
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.RazorTargetAssemblyInfo.cache
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.RazorTargetAssemblyInfo.cs
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.Views.pdb
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.csproj.CopyComplete
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.dll
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.pdb
+C:\Users\Pamela Hernandez\Desktop\Tarea 3\Tarea 3\obj\Debug\netcoreapp3.1\Tarea 3.genruntimeconfig.cache
